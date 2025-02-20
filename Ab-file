@@ -1,0 +1,9 @@
+List<string> groceryitem = new List<string> ();
+groceryitem.Add("Ghee");
+groceryitem.Add("Daal");
+groceryitem.Add("chawal");
+groceryitem.Add("Oil");
+groceryitem.Add("Pickle");
+foreach(var u in groceryitem)
+{Console.WriteLine(u);}
+
