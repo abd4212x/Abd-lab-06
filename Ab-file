@@ -6,4 +6,5 @@ groceryitem.Add("Oil");
 groceryitem.Add("Pickle");
 foreach(var u in groceryitem)
 {Console.WriteLine(u);}
+groceryitem.Add("Soap");
 
